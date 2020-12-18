@@ -1,0 +1,7 @@
+name: "testgroundswitcher"
+displayName: "173 = Sandbox"
+author: "[yellow]RT[cyan]Omega"
+description: "Replaces 173 with a sandbox map."
+version: "1.0"
+minGameVersion: 120
+hidden: true
